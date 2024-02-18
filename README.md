@@ -1,17 +1,16 @@
-- 👋 Hi, I’m @Zwezayar
+- 👋 Hi, I am Zwezayar from Myanmar (Burma).
+- I was working on Merchant Ship Navigator 
+
+- 👀 I’m interested in Mechatronic and Artifial Intelligence ,  Robotic Automations.
 - 
-- 👀 I’m interested in Mechatronic and Ai . Robot automations
+- 🌱 I’m currently learning (Python) and Data Strucutre and Algroithm.
 - 
-- 🌱 I’m currently learning (.Python) and Data strucutre and Algroithm
-- 
-- 💞️ I’m looking to be Friends with Open Minded and teamwork to skill have together work is more effective and Efficiency
+- 💞️ I can accepted person who have Open Minded Person , Mutual Respects and  team-work colloborations to discussion or suggestion to learn New Things and General Knowledges .
 - 
 - 📫 How to reach me , u can send me msg here and gmail also i can provided
 -
-- >> Zyarkyaw7@gmail.com
-- >> Thanks>> 
+- Zwezayar88@gmail.com
+- Thanks 
 
-<!---
-Zwezayar/Zwezayar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+( Zwezayar/Zwezayar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes )
